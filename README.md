@@ -22,10 +22,16 @@ The Real-time Job Posting Analytics project is a sophisticated system developed 
 
 
 ## Screenshots
-1. ### S3 Parquet Streams
+### 1. Text File Job Description
+![Text File Job Description](/imgs/TXT%20JD.png)
+
+### 2. JSON File Job Description
+![JSON File Job Description](/imgs/JSON%20JD.png)
+
+### 3. S3 Parquet Streams
 ![S3 Parquet Stream](/imgs/S3%20Streams.png)
 
-2. ### Job Postings Data in Athena
+### 4. Job Postings Data in Athena
 ![Real Time Job Postings Data in Athena](/imgs/Athena%20Tables.png)
 
 ## Getting Started

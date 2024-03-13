@@ -1,7 +1,7 @@
 # Real-time Job Posting Analytics
 
 ## Overview
-The Real-time Job Posting Analytics project is a sophisticated system developed to extract, process, and analyze job postings in real-time using **Apache Spark** on **Docker**. Traditional job posting data often comes in various formats and structures, making parsing and extracting relevant information a challenging task. This project tackles this challenge by employing **regular expressions** to identify patterns within the job postings, enabling the extraction of key information such as job titles, descriptions, salary, dates, qualifications, and skills.
+The Real-time Job Posting Analytics project is a sophisticated system developed to extract, process, and analyze job postings in real-time using **Apache Spark** on **Docker**. Traditional job posting data often comes in various formats and structures, making parsing and extracting relevant information a challenging task. This project tackles this challenge by employing **regular expressions** to identify patterns within the 650 job postings, enabling the extraction of key information such as job titles, descriptions, salary, dates, qualifications, and skills.
 
 ![System Architecture Diagram](/imgs/Architecture.png)
 
